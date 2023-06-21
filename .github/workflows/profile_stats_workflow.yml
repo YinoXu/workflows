@@ -14,7 +14,7 @@ jobs:
       - name: Generate metrics
         uses: anuraghazra/github-readme-stats@production
         with:
-          username: YourUsername
+          username: YinoXu
           commit_message: Updated with latest metrics
           output_folder: "."
 
